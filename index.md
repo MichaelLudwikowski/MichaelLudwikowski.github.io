@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:MRLudwikowski@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Name and ID parcer | CSCI 301](project1.md)
+### [Name and ID parcer | CSCI 315](project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Wordle machine | CSCI 325](project3.md)
+### [Wordle machine | CSCI 301](project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Go-Fish project | CSCI 332](project4.md)
+### [Go-Fish project | CSCI 325](project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
