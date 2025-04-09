@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 315, Data Structure Analysis** 
 -   **Grade: 100%**
 
-### [Are Memes more good than they are bad?](/pdf/sample_presentation.pdf)
+### [Coding Ethics in the Workplace](/pdf/Michael%20Ludwikowski%20Ethics%20paper%20coding%20ethics%20in%20the%20workspace.pdf)
 
--   **Class: CSCI 330, Computer Architecture** 
--   **Grade: STILL IN PROGRESS**
+-   **Class: CSCI 325, Object-Oriented Programming** 
+-   **Grade: 85%**
 
 ---
 
