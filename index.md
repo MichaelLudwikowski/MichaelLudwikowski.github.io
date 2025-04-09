@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:MRLudwikowski@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics Behind Copying Others Code](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301, Survey of Scripting Languages**  
+-   **Grade: 100%**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Software Testing](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315, Data Structure Analysis** 
+-   **Grade: 100%**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Are Memes more good than they are bad?](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 330, Computer Architecture** 
+-   **Grade: STILL IN PROGRESS**
 
 ---
 
@@ -63,6 +63,4 @@ Presentations
 - **Grade:**
 
 ---
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
