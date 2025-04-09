@@ -57,7 +57,7 @@ Presentations
 - **Grade: 100%**
 
 
-### [Go-fish Implamentation guide](/pdf/sample_presentation.pdf)
+### [Go-fish Implamentation guide](/pdf/uml%20diagram.pptx)
 
 - **Class: CSCI 325, Object-Oriented Programming** 
 - **Grade: 70% **
