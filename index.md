@@ -31,12 +31,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Behind Copying Others Code](/pdf/sample_presentation.pdf)
+### [Ethics Behind Copying Others Code](/pdf/Michael Ludwikowski Survey of Scripting Languages Ethics paper.docx)
 
 -   **Class: CSCI 301, Survey of Scripting Languages**  
 -   **Grade: 100%**
 
-### [Software Testing](/pdf/sample_presentation.pdf)
+### [Software Testing](/pdf/Michael Ludwikowski Ethics Paper Software Testing.docx)
 
 -   **Class: CSCI 315, Data Structure Analysis** 
 -   **Grade: 100%**
