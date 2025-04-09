@@ -62,5 +62,4 @@ Presentations
 - **Class: CSCI 325, Object-Oriented Programming** 
 - **Grade: 70% **
 
----
 <!-- Remove above link if you don't want to attributive -->
