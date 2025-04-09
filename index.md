@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Canbus Presentation](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 332, Applied Networking** 
+- **Grade: 100%**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Go-fish Implamentation guide](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 325, Object-Oriented Programming** 
+- **Grade: 70% **
 
 ---
 <!-- Remove above link if you don't want to attributive -->
