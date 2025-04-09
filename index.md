@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Canbus Presentation](/pdf/sample_presentation.pdf)
+### [Canbus Presentation](/pdf/Canbus%20assignment.mkv)
 
 - **Class: CSCI 332, Applied Networking** 
 - **Grade: 100%**
