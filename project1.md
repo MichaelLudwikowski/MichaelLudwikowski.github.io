@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Name and ID parcer
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 315, Data Structure Analysis** 
+-   **Grade: 85%** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [Name and ID Parcer](https://github.com/MichaelLudwikowski/MichaelLudwikowski_CSCI_SPP_project1/tree/main)  
+    (Please [email me](mailto:MRLudwikowski@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
