@@ -26,6 +26,8 @@ python3 FinalProject3.py
 
 ## UI Design
 
+The code simply asks the user for the URL of the page wanted and outputs the rest of the page.
+
 ![screenshot](images/Project3.png)  
 Fig 1. Example of the code running with Wikipedia URL
 
