@@ -6,7 +6,7 @@ Wikipedia Parcer
 -   **Class: CSCI 301, Survey of Scripting languages** 
 -   **Grade: 100%** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [FinalProject3](FinalProject3)  
+-   **Source Code Repository:** [FinalProject3](https://github.com/MichaelLudwikowski/MichaelLudwikowski_CSCI_SPP_project3/tree/main)  
     (Please [email me](mailto:MRLudwikowski@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
