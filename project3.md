@@ -26,14 +26,8 @@ python3 FinalProject3.py
 
 ## UI Design
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Project3.png)  
+Fig 1. Example of the code running with Wikipedia URL
 
 ## 3. Additional Considerations
 
