@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Wordle machine | CSCI 301](project3.md)
+### [Wikipedia parcer | CSCI 301](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/project3)
 
 ---
 ### [Go-Fish project | CSCI 325](project4.md)
