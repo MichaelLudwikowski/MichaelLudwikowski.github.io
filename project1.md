@@ -26,10 +26,10 @@ make all
 
 The code should run without error and should finish on its own (Fig 1). You can also try running the make clean command to reset the program. In the program you should also see the performance statistics to display how using the data structures allows for the program to run swiftly and efficiency while being accurate at the same time. (Fig 2)
 
-![screenshot](images/Project1.1.jpg)  
+![screenshot](images/Project1.1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/project1.2.jpg)  
+![screenshot](images/Project1.2.png)  
 Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations
