@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Name and ID parcer | CSCI 315](project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/Project1.1.png)
 
 ---
 ### [Hangman | CSCI 235](project2.md)
