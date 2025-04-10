@@ -31,7 +31,7 @@ The code simply asks the user for the URL of the page wanted and outputs the res
 ![screenshot](images/Project3.png)  
 Fig 1. Example of the code running with Wikipedia URL
 
-## 3. Additional Considerations
+## Additional Considerations
 
 The program requires some additional instalations, which can be difficult if you are not on Ubuntu or don't have a machine that can run a WSL environment. Even after, there are some extentions needed to run the parcing code. 
 
