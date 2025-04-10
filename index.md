@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Wikipedia parcer | CSCI 301](project3.md)
 
-![Project 3 Thumbnail Name](images/project3)
+![Project 3 Thumbnail Name](images/Project3.png)
 
 ---
 ### [Go-Fish project | CSCI 325](project4.md)
