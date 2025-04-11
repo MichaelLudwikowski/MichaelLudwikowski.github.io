@@ -26,10 +26,10 @@ Run with java GoFishGame
 
 First displays the rules and task of the game with how to play (Fig. 1). Afterwards, the game goes right into player 1s turn and alternates between players (Fig. 2).
 
-![screenshot](Project4.1.PNG)  
+![screenshot](images/Project4.1.PNG)  
 Fig 1. The launch screen
 
-![screenshot](Project4.2.PNG)  
+![screenshot](images/Project4.2.PNG)  
 Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations
