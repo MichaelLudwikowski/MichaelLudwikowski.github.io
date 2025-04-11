@@ -32,7 +32,7 @@ Fig 1. The launch screen
 ![screenshot](images/Project4.2.PNG)  
 Fig 2. Example output after input is processed.
 
-## 3. Additional Considerations
+##Additional Considerations
 
 The program assumes valid input from the user with little error handling. 
 
