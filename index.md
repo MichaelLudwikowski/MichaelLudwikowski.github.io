@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Name and ID parcer | CSCI 315](project1.md)
 
-![Project 1 Thumbnail Name](images/Project1.1.png)
+![Project 1 Thumbnail Name](images/Project1.2.PNG)
 
 ---
 ### [Website balancer and parcer | CSCI 315](project2.md)
