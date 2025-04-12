@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Project1.1.png)
 
 ---
-### [Hangman | CSCI 235](project2.md)
+### [Website balancer and parcer | CSCI 315](project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
