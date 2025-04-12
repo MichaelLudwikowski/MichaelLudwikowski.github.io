@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Website balancer and parcer | CSCI 315](project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Project2.PNG)
 
 ---
 ### [Wikipedia parcer | CSCI 301](project3.md)
