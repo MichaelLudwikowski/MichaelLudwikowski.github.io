@@ -27,7 +27,7 @@ optional: make example-test.cpp
 
 Very simple to run, just do "make all" and it will run through the sameple websites put in the "pages" folder to check if they are balanced and other sites to visit. If you want you can add optional tests and/or add more pages to test.
 
-![screenshot](Project2.png)  
+![screenshot](images/Project2.PNG)  
 Fig 1. Example Output
 
 ## Additional Considerations
