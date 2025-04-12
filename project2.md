@@ -15,8 +15,6 @@ Utilises different data structures to run tests through different HTML websites 
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
 Make clean
 Make all
