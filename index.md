@@ -127,41 +127,41 @@ This progression also helped separate completed features from future enhancement
 
 ### Core Requirements Implemented
 
-1. **Account and user management** (Priority: Critical)
+1. **Account and user management**
    - user registration and login
    - logout and password reset flow in the web interface
    - account reset back to the default starting balance
 
-2. **Wallet and transaction controls** (Priority: Critical)
+2. **Wallet and transaction controls** 
    - initialize new accounts with $1000 in fake money
    - prevent purchases when funds are not available
    - store holdings, balances, and transaction history in SQLite
 
-3. **Stock data and analysis** (Priority: High)
+3. **Stock data and analysis**
    - search stocks by symbol
    - retrieve quote and historical data with caching
    - display historical charts and stock detail information
 
-4. **Trading operations** (Priority: Critical)
+4. **Trading operations**
    - buy and sell stock through the application
    - update holdings and portfolio value after trades
    - calculate total value and gain/loss information
 
-5. **AI analyst support** (Priority: High)
+5. **AI analyst support**
    - generate buy, sell, or hold recommendations
    - include confidence, risk level, and a short rationale
 
-6. **Learning and practice features** (Priority: High)
+6. **Learning and practice features**
    - learning page for beginner information
    - historical simulation mode
    - practice mode with different difficulty settings
 
-7. **Interface and display** (Priority: High)
+7. **Interface and display**
    - dashboard with balance, holdings, and recent activity
    - portfolio page and stock detail pages
    - interactive charts using Bokeh
 
-8. **Testing and reliability** (Priority: High)
+8. **Testing and reliability**
    - test plan and written test cases
    - Python test scripts for API and AI integration work
    - transaction and balance validation in code
