@@ -313,7 +313,7 @@ Overall, the current version already demonstrates the main idea of the project, 
 ### Point 10: Supporting Senior Project Artifacts
 
 - [Defense Slides (Marp)](https://github.com/MichaelLudwikowski/MichaelLudwikowski.github.io/blob/master/DefenseSlides.md)
-- [Presentation Deck (PPTX)](https://github.com/MichaelLudwikowski/MichaelLudwikowski.github.io/blob/master/Michael%20Ludwikowski%20Final%20Project%20Presentation.pptx)
+- [Presentation Deck (PPTX)](https://github.com/MichaelLudwikowski/MichaelLudwikowski.github.io/blob/master/Michael%20Ludwikowski%20Final%20Project%20Presentation.pdf)
 - [Test Results Summary](https://github.com/MichaelLudwikowski/MichaelLudwikowski.github.io/blob/master/TestResultsSummary.md)
 - [Execution Summary CSV](https://github.com/MichaelLudwikowski/MichaelLudwikowski.github.io/blob/master/TestCases_Execution_Summary.csv)
 - [Execution Skeleton Worksheet](https://github.com/MichaelLudwikowski/MichaelLudwikowski.github.io/blob/master/TestCases_Execution_Skeleton.txt)
