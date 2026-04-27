@@ -102,7 +102,7 @@ This shows how course knowledge in programming, data structures, software engine
 - Pandas / NumPy: Data manipulation and numeric processing.
 - Bokeh: Interactive charting support.
 - Ollama (Llama model): AI-assisted stock analysis and recommendation generation.
-- Requests: HTTP communication for market API calls.
+- Alpha Vantage: HTTP communication for market API calls.
 - Pytest: Test execution and validation.
 
 ### Development and Runtime Environment
@@ -237,7 +237,6 @@ Another limitation is that the AI features depend on a local Ollama setup. If Ol
 Some planned features are not fully finished in the current version. Multiple account support exists in the data model but is not fully exposed in the user workflow. Margin trading logic also exists in code but is currently disabled. AI auto-investing and full AI training are only partially implemented. In this defense, those features should be presented as future improvements rather than as completed work.
 
 The project is meant for education, not for real investing. Even when real market data is available, the system should not be treated as financial advice. This keeps the project focused on learning and practice instead of real-money trading.
-
 
 ---
 
