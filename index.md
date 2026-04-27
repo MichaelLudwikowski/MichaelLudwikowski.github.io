@@ -309,29 +309,9 @@ Overall, the current version already demonstrates the main idea of the project, 
 
 ---
 
-## Point 10: Defense Presentation Slides
-- 10-12 slides total
-- one main idea per slide
-- make sure to use app visuals alongside short bullet text
-
-Suggested slide order:
-1. Title slide
-2. Problem statement
-3. Project goals
-4. System architecture overview
-5. Core features demo (dashboard/trading/AI)
-6. Practice and simulation modes
-7. Test plan and test results summary
-8. Challenges overcome
-9. Future enhancements
-10. Conclusion and Q&A
-
----
-
-END DEFENSE DOCUMENTATION
 -------------------------
 
-### Supporting Senior Project Artifacts
+### Point 10: Supporting Senior Project Artifacts
 
 - [Defense Slides (Marp)](../docs/DefenseSlides.md)
 - [Presentation Deck (PPTX)](../docs/Michael%20Ludwikowski%20Final%20Project%20Presentation.pptx)
